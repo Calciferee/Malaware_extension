@@ -1,7 +1,6 @@
-# MALICIOUS EXTENSION - EXTENSION MALICIEUSE
+# OUTILS DE SURVEILLANCE - EXTENSION WEB
 
-Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome. Ce genre d'extensions Bypass tous les antivirus et n'est détectable que par l'utilisateur. Le code n'a pas besoin d'être Obfuscaté.
-L'extension peut être installer de manière automatique par le biais d'un .lnk ce que je ne montrerais pas ici.
+Ce genre d'extensions Bypass tous les antivirus et n'est détectable que par l'utilisateur. Le code n'a pas besoin d'être Obfuscaté. L'extension peut être installer de manière automatique par le biais d'un .lnk ce que je ne montrerais pas ici. Il permet de surveiller les touches saisies par quelqu'un qui utilise votre Chrome.
 
 # FONCTIONNEMENT
 
